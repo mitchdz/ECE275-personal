@@ -1,0 +1,16 @@
+CircleKStores 33.36 -111.88 2.50 1
+Sonic 33.42 -112.29 3.50 1
+ApplianceDoctorInc 33.80 -112.13 3.00 1
+SurpriseEndodontics 33.64 -112.39 5.00 2
+ArtisansShoe&LeatherRepair 33.34 -111.86 4.50 5
+GreatClips 33.35 -111.96 3.00 1
+NationwideVisionCenters 33.58 -111.98 2.50 1
+Valero1626 33.62 -112.20 3.50 4
+UnitedStatesGovernment 33.61 -112.24 2.00 1
+NativeBloomLandscapeandDesign 33.62 -111.87 4.00 2
+Ray'sPizza 33.38 -111.60 3.00 1
+PaylessCarRental 33.44 -112.03 1.50 0
+CasualMaleXl 33.64 -112.23 5.00 2
+Church'sChicken 33.51 -112.34 3.00 1
+TcfBank 33.32 -111.81 3.50 1
+BethesdaPediatrics 33.34 -111.86 3.00 2
