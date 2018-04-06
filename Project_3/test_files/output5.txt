@@ -1,0 +1,11 @@
+BorelliEdwardsArtGallery	5.00	0.00
+Black&GoldBeerWarehouse	5.00	0.04
+T-Mobile	5.00	0.04
+SacredHeartofJesusStore	5.00	0.02
+CentreAveMassage&Spa	5.00	0.04
+HeidelbergAntiqueMall	5.00	0.14
+BeSalon	5.00	0.11
+PittsburghHairCompany	5.00	0.10
+HeatherMFilerDC	5.00	0.04
+ModernformationsGallery	5.00	0.03
+RobertoClementeBridge	5.00	0.04

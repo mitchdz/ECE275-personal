@@ -1,0 +1,9 @@
+NativeBloomLandscapeandDesign	4.00	0.49
+CircleKStores	2.50	0.38
+Sonic	3.50	0.80
+GreatClips	3.00	0.46
+NationwideVisionCenters	2.50	0.56
+Ray'sPizza	3.00	0.13
+PaylessCarRental	1.50	0.55
+TcfBank	3.50	0.31
+BethesdaPediatrics	3.00	0.36

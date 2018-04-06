@@ -1,0 +1,40 @@
+EastEndCommunityThrift 40.47 -79.94 4.00 2
+Calabria'sItalianRestaurant 40.47 -79.94 2.50 1
+ChinaHouse 40.46 -79.95 4.00 2
+ExerciseWarehouseGym 40.46 -79.96 4.00 2
+CafeSam 40.46 -79.94 3.50 1
+SoundCatRecords 40.46 -79.95 5.00 2 rubbish
+PaddyCakeBakery 40.46 -79.95 3.50 1
+Angelo'sPizzeria 40.46 -79.95 3.50 1
+Kraynick'sBikeShop 40.47 -79.94 5.00 2 rubbish
+Graziano'sPizzeria 40.47 -79.95 3.50 1
+DanCerconeHairstyling 40.46 -79.95 4.00 2
+PizzaItalia 40.46 -79.95 4.50 2
+PetragliaJamesFDMD 40.46 -79.95 3.50 1
+People'sIndianRestaurant 40.46 -79.94 3.50 1
+PhoMinh 40.47 -79.94 4.00 2
+CatClinic&Hospital 40.46 -79.94 4.00 2
+GroceriaItaliana 40.46 -79.95 4.50 2 rubbish
+PNCBank 40.46 -79.95 4.00 2
+Armand'sBar 40.46 -79.95 3.50 1
+LifetimeAutomotiveCenter 40.46 -79.94 4.50 2 rubbish
+TasteofIndia 40.47 -79.95 4.00 2
+GoldenRazor 40.46 -79.95 5.00 2 rubbish
+Nico'sRecoveryRoom 40.46 -79.95 3.50 1
+Donatelli'sItalianFoodCenter 40.46 -79.95 3.50 1
+SevenCee's 40.46 -79.95 4.00 2
+Yolanda'sHairDesign 40.46 -79.95 3.50 1
+D'Amico's 40.46 -79.95 2.50 1
+Tram'sKitchen 40.47 -79.96 4.00 2
+Merante'sGifts 40.46 -79.95 4.50 2
+RittersDiner 40.46 -79.94 3.50 1
+BloomfieldDrugStore 40.46 -79.95 5.00 2
+Lombardozzi'sRestaurant 40.46 -79.95 3.50 1
+Tessaro's 40.46 -79.95 4.00 2
+Teabags 40.47 -79.95 4.50 2 rubbish
+B&MAutomotiveServices 40.46 -79.95 4.50 2
+PleasureBarandRestaurant 40.46 -79.95 3.00 1
+PittsburghEyeAssociates 40.47 -79.95 3.50 1
+BellVisionCare 40.46 -79.95 2.50 1
+CourtyardPittsburghShadyside 40.46 -79.94 3.50 1
+TwistersSoftServeIceCream 40.46 -79.95 4.00 2

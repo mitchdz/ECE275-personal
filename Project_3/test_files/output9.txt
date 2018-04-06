@@ -1,0 +1,5 @@
+CatClinic&Hospital	4.00	0.04
+CafeSam	3.50	0.04
+People'sIndianRestaurant	3.50	0.04
+RittersDiner	3.50	0.04
+CourtyardPittsburghShadyside	3.50	0.04
